@@ -1,0 +1,9 @@
+To do :
+
+1) Add Numbers
+2) conversion of time
+3) find my age in secs
+4) how to use lists
+5) how to find min and max in a lists
+6) mini proj : Sorting IMDB movie DB
+
